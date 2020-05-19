@@ -1,2 +1,2 @@
 # euler
-kool
+problems from project euler
